@@ -1,0 +1,19 @@
+{
+    "name": "delosfei/framework",
+    "description": "学习框架",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "delosfei",
+            "email": "9739723@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "delosfei\\framework\\":"src"
+        }
+    }
+}
