@@ -12,6 +12,9 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
+        "files":[
+            "src/core/helpers.php"
+        ],
         "psr-4": {
             "delosfei\\framework\\":"src"
         }
